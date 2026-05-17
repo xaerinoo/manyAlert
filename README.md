@@ -1,1 +1,1 @@
-# manyAlert
+ACT 촬영 시 활용할 화면 제작
